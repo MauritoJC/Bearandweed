@@ -1,2 +1,2 @@
 # Bearandweed
-Una pagina de ropa god
+Hagan paginas oe pe causitas, bien chimbas
