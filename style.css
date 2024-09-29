@@ -27,6 +27,17 @@ header{
     box-shadow: 0 0 10px rgb(0,0,0,0.1);
 }
 
+/*Version oscura del contenido, usado en Sobrenosotros.html*/
+.contenido-n{
+    background-color: #171717;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border: 0.5px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(0,0,0,0.1);
+}
+
 /*para centrar las minisecciones*/
 .centrar-s{
     text-align: center;
@@ -179,4 +190,15 @@ input{
 textarea{
     margin-right: 50%;
     border-radius: 4px;
+}
+
+.foter-n{
+    background-color: rgb(45, 45, 45);
+    padding: 15px;
+    border-radius: 7px;
+    color: #ffffff;
+}
+
+.blanco-p{
+    color: #ffffff;
 }
